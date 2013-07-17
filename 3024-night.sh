@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
-# 3024 - Gnome Terminal color scheme install script
-# Jan T. Sott (http://github.com/idleberg)
+
+#   Name:       3024 night
+#   Author:     Jan T. Sott (http://github.com/idleberg)
+
+#   3024 color scheme and Gedit template by Jan T. Sott (https://github.com/idleberg)
+#   Built with a modified version of Base16 Builder by Chris Kempson (https://github.com/chriskempson)
 
 [[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 3024"
 [[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-3024"
